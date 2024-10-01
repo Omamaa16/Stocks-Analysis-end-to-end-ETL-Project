@@ -13,7 +13,7 @@ Finally, the data was connected to the PowerBI using the appropriate cardinaliti
 • The syntax of the SQLshell differs slightly from that of the standard SQL; hence, alot of time had to be bought into it.
 
 ## Project Architecture
-Project Architecture
+![Project Architecture](https://github.com/Omamaa16/Stocks-Analysis-end-to-end-ETL-Project/blob/main/Project%20Architecture.pdf)
 
 ## Technology and services used
 1 - Extraction and staging.
