@@ -50,4 +50,4 @@ Initiated a Data Warehouse project, from scratch, utilizing a big dataset for 50
 
 ## Other Information
 • Data Set: "https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks?select=sp500_companies.csv"
-• Data Mode: 
+• Data Mode: (https://github.com/Omamaa16/Stocks-Analysis-end-to-end-ETL-Project/blob/main/Data%20Model.pdf)
