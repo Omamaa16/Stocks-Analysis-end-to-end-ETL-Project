@@ -9,8 +9,8 @@ Admist, in order to maintain the data integrity, surrogates were generated as we
 Finally, the data was connected to the PowerBI using the appropriate cardinalities and relationships, leveraging DAX queries, quick measures, measured columns, and measured tables to build deeper contexts. 
 
 ## Challenges: 
-• Limited KPI's were present to draw financial conclusions. Insights inclusive of the CurrentRatio/Price-to-Earning ratio ect could not be accounted for a conclusion on stronger grounds.
-• The syntax of the SQLshell differs slightly from that of the standard SQL; hence, alot of time had to be bought into it.
+- Limited KPI's were present to draw financial conclusions. Insights inclusive of the CurrentRatio/Price-to-Earning ratio ect could not be accounted for a conclusion on stronger grounds.
+- The syntax of the SQLshell differs slightly from that of the standard SQL; hence, alot of time had to be bought into it.
 
 ## Project Architecture
 ![Project Architecture](https://github.com/Omamaa16/Stocks-Analysis-end-to-end-ETL-Project/blob/main/Project%20Architecture.pdf)
