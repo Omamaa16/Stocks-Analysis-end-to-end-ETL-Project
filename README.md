@@ -32,22 +32,24 @@ Python library: SQLalchemy to migrate the data from the jupyter to the postgre.
 
 ## Methodology
 Initiated a Data Warehouse project, from scratch, utilizing a big dataset for 500 companies worldwide. 
-• The data was downloaded via the opendatsets python library.
-• Performed exploratory data analysis using the Python pandas and NumPy, built on the framework of Jupyter notebook and manupilated data with relevant transformational rules.
-• Migrated data to PostGRE using SQLalchemy and constructed relevant tables using pgAdmin and psql.
-• Generated surrogates to preserve data integerity using PSQL/TSQL. Modeled data into a snowflake schema, using lucid charts. 
-• Utilizing PowerBI and the DAX queries, analyzed the data while establishing.
+- The data was downloaded via the opendatsets python library.
+- Performed exploratory data analysis using the Python pandas and NumPy, built on the framework of Jupyter notebook and manupilated data with relevant transformational rules.
+- Migrated data to PostGRE using SQLalchemy and constructed relevant tables using pgAdmin and psql.
+- Generated surrogates to preserve data integerity using PSQL/TSQL. Modeled data into a snowflake schema, using lucid charts.
+- Utilizing PowerBI and the DAX queries, analyzed the data while establishing.
 
 ## Assumption
-• While drawing the pie donut chart, the highest value consisted of 4.19 billion - hence, in order to depict a clear stance, a random number of 4.25 billion was chosen as the final target. 
-• The sheet "KSE" would not align with business interest, hence, it was dropped before the staging stage. 
+- While drawing the pie donut chart, the highest value consisted of 4.19 billion - hence, in order to depict a clear stance, a random number of 4.25 billion was chosen as the final target.
+- The sheet "KSE" would not align with business interest, hence, it was dropped before the staging stage. 
 
 ## Conclusion
-• The Canadian Apparel market to be the riskiest, having an aggregated volatility of 66M.
-• 2013 to be the most stable year historically, proving to have had an aggregated $965B profit from all over the countries.
-• US being the safest market while Singapore being the most unstable; USA generating 72.4% higher profit on average. 
-• SMCI always being the most safe stock exchange market, responsible for an approximate 3.4% revenue growth per year.
+- The Canadian Apparel market to be the riskiest, having an aggregated volatility of 66M.
+- 2013 to be the most stable year historically, proving to have had an aggregated $965B profit from all over the countries.
+- US being the safest market while Singapore being the most unstable; USA generating 72.4% higher profit on average.
+- SMCI always being the most safe stock exchange market, responsible for an approximate 3.4% revenue growth per year.
+
+- Dashboard: "https://github.com/Omamaa16/Stocks-Analysis-end-to-end-ETL-Project/blob/main/Stocks%20Analysis%20Report.pdf"
 
 ## Other Information
-• Data Set: "https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks?select=sp500_companies.csv"
-• Data Mode: (https://github.com/Omamaa16/Stocks-Analysis-end-to-end-ETL-Project/blob/main/Data%20Model.pdf)
+- Data Set: "https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks?select=sp500_companies.csv"
+- Data Mode: "https://github.com/Omamaa16/Stocks-Analysis-end-to-end-ETL-Project/blob/main/Data%20Model.pdf"
