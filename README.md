@@ -28,7 +28,8 @@ Python library: SQLalchemy to migrate the data from the jupyter to the postgre.
 • PowerBI - DAX queries. 
 
 ## Scripts Used
-------------
+- Pyhton script for exploratory data analysis and data manupilation and transformation: [Stocks Analysis -Python Code.ipynb](https://github.com/Omamaa16/Stocks-Analysis-end-to-end-ETL-Project/blob/main/Stocks%20Analysis%20-Python%20Code.ipynb).
+- SQL scripts for data modeling and data integrity preservance: [Stock_F.sql](https://github.com/Omamaa16/Stocks-Analysis-end-to-end-ETL-Project/blob/main/Stock_F.sql), [company_dim.sql](https://github.com/Omamaa16/Stocks-Analysis-end-to-end-ETL-Project/blob/main/company_dim.sql), [date_dim.sql](https://github.com/Omamaa16/Stocks-Analysis-end-to-end-ETL-Project/blob/main/date_dim.sql), [exchange_dim.sql](https://github.com/Omamaa16/Stocks-Analysis-end-to-end-ETL-Project/blob/main/exchange_dim.sql), [location_dim.sql](https://github.com/Omamaa16/Stocks-Analysis-end-to-end-ETL-Project/blob/main/location_dim.sql)
 
 ## Methodology
 Initiated a Data Warehouse project, from scratch, utilizing a big dataset for 500 companies worldwide. 
@@ -48,8 +49,9 @@ Initiated a Data Warehouse project, from scratch, utilizing a big dataset for 50
 - US being the safest market while Singapore being the most unstable; USA generating 72.4% higher profit on average.
 - SMCI always being the most safe stock exchange market, responsible for an approximate 3.4% revenue growth per year.
 
-- Dashboard: "https://github.com/Omamaa16/Stocks-Analysis-end-to-end-ETL-Project/blob/main/Stocks%20Analysis%20Report.pdf"
+- Dashboard: "https://github.com/Omamaa16/Stocks-Analysis-end-to-end-ETL-Project/blob/main/Stocks%20Analysis%20Report.pdf".
 
 ## Other Information
-- Data Set: "https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks?select=sp500_companies.csv"
-- Data Mode: "https://github.com/Omamaa16/Stocks-Analysis-end-to-end-ETL-Project/blob/main/Data%20Model.pdf"
+- Data Set: "https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks?select=sp500_companies.csv".
+- Data Mode: "https://github.com/Omamaa16/Stocks-Analysis-end-to-end-ETL-Project/blob/main/Data%20Model.pdf".
+- Data quality check in PowerBI: "https://github.com/Omamaa16/Stocks-Analysis-end-to-end-ETL-Project/blob/main/data_quality_check_PowerBI.png".
